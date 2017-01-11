@@ -1,2 +1,0 @@
-# MyFirstGit
-Learning git
